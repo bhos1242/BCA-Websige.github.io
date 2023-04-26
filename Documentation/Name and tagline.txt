@@ -1,0 +1,5 @@
+Name:
+BCAlive: This name emphasizes the idea that the website is a lively and dynamic resource for BCA students.
+
+Tagline:
+"Unleashing the power of BCA education"
